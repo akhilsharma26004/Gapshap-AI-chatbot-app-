@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658803781935",
+    "project_id": "gapshap-c3dc4",
+    "storage_bucket": "gapshap-c3dc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658803781935:android:e5ae1c220735f39f0771da",
+        "android_client_info": {
+          "package_name": "com.example.gapshap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBX1kt5KuTOB632xPF5evIk5Qh7_i2qKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
